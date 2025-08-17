@@ -10,7 +10,7 @@ Features:
 
 Requirements:
 - Python 3.8+
-- pip install PyGithub requests toml
+- pip install -r requirements.txt
 
 Usage:
 - python dep_confusion.py --repo https://github.com/org/repo --token $GITHUB_TOKEN
